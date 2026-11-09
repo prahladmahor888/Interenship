@@ -1,0 +1,10 @@
+Student ID: 101
+Student Name: Amit Kumar
+Course: Computer Science
+Marks: 88.5
+----------------------------
+Student ID: 102
+Student Name: Priya Sharma
+Course: Information Technology
+Marks: 92.0
+----------------------------
