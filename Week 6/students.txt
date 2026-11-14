@@ -1,0 +1,4 @@
+101, Prahlad, CSE, 25, 95.0
+102, Mohan Verma, Ai, 21, 99.0
+103, Janvi Thakur, EC, 18, 65.5
+104, Radha Sharma, CSE, 24, 77.0
